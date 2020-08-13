@@ -2,7 +2,7 @@
   "name": "test_repo",
   "version": "1.0.0",
   "engines": {
-    "node": ">=12",
+    "node": ">=12.18.3",
     "yarn": "*"
   },
   "description": "",
