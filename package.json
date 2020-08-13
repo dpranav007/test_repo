@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dpranav007/test_repo/issues"
   },
-  "homepage": "https://github.com/dpranav007/test_repo#readme"
+  "homepage": "https://github.com/dpranav007/test_repo#readme",
+  "dependencies": {
+    "delay": "^4.4.0"
+  }
 }
